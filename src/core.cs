@@ -18,3 +18,4 @@ A modern, strongly-typed command-line framework for .NET. Define your commands,
 // clarify the control flow
 // clarify the control flow
 // guard against empty input
+// handle the edge case from the last release
