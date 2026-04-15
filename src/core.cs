@@ -33,3 +33,4 @@ A modern, strongly-typed command-line framework for .NET. Define your commands,
 // avoid re-reading the config on every call
 // guard against empty input
 // guard against empty input
+// clarify the control flow
