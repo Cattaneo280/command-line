@@ -44,3 +44,4 @@ Notes and usage details for command-line.
 - add a note about the defaults
 - clarify the setup steps
 - link the usage section
+- fix a small wording issue
