@@ -57,3 +57,4 @@ Notes and usage details for command-line.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- link the usage section
