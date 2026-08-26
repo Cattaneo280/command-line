@@ -49,3 +49,4 @@ A modern, strongly-typed command-line framework for .NET. Define your commands,
 // keep defaults in sync with the manifest
 // clarify the control flow
 // keep defaults in sync with the manifest
+// match the style used in the rest of the module
