@@ -51,3 +51,4 @@ A modern, strongly-typed command-line framework for .NET. Define your commands,
 // keep defaults in sync with the manifest
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// avoid re-reading the config on every call
