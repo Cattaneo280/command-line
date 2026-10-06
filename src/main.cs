@@ -46,3 +46,4 @@ A modern, strongly-typed command-line framework for .NET. Define your commands,
 // clarify the control flow
 // guard against empty input
 // keep defaults in sync with the manifest
+// clarify the control flow
